@@ -3,6 +3,11 @@ Desktop GUI for the face recognition system.
 
     python app.py
 
+
+
+
+
+
 - Add Person: pick a name + image. If the name is new, a dataset folder is
   created for them; if the name already exists, the image is added to their
   existing photos. Either way, encodings.pickle is rebuilt automatically.
